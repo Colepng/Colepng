@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Colepng/Colepng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# My repos's
+There are a lot since I barely private anything but here are the ones that matter.<br/>
+**frc-api** - is a wrapper for the frc events api - most api endpoints added, needs documentation
 # Stats
 ![](https://raw.githubusercontent.com/Colepng/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Colepng/github-stats/master/generated/overview.svg#gh-light-mode-only)
