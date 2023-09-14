@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # My repos's
 There are a lot since I barely private anything but here are the ones that matter.<br/>
-**frc-api** - is a wrapper for the frc events api - most api endpoints added, needs documentation
-**keyboard-rs** - is a keyboard firmware library for the rp2040 with support for rotary encoders written in rsut
-**streaming-rs** - is a streaming service written in rust **MAJOR WORK IN PROGRESS**.
+**frc-api** - is a wrapper for the frc events api - most api endpoints added, needs documentation  
+**keyboard-rs** - is a keyboard firmware library for the rp2040 with support for rotary encoders written in rust  
+**streaming-rs** - is a streaming service written in rust **MAJOR WORK IN PROGRESS**  
 # Stats
 ![](https://raw.githubusercontent.com/Colepng/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Colepng/github-stats/master/generated/overview.svg#gh-light-mode-only)
