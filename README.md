@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+# Websites
+- [blog](https://blog.colepng.com/)
 # My repos's
 There are a lot since I barely private anything but here are the ones that matter.<br/>
   - **frc-api** is a wrapper for the frc events api - most api endpoints added, needs documentation  
